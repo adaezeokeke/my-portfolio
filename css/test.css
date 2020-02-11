@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+ background-image: radial-gradient(circle, purple, pink , white);
+ 
+}
+p{
+    color: cyan;
+    text-align: center;
+}
+h1{
+    color: crimson;
+background-color: darkblue;
+color: darkorchid;
+}
+.baby{
+    border: turquoise solid 5px;
+    color: violet;
+}
+#box{
+    color: yellowgreen;
+    border: green solid 5px;
+}
+h1,h2,h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+span#highlight{
+    background-color: honeydew;
+    text-align: center;
+}
+#boy

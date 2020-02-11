@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: image(/s kmedia/bg.jpg);
+}
+    
+.topheader{
+    background-color:  rgb(154, 231, 186);
+    height: 65px;
+}
+h1{
+    font-family: 'Courgette', cursive;
+    color: rgb(16, 37, 77);
+    padding-top: 0px;
+    margin-top: auto;
+}
+nav{
+    float: right;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0px 15px 0px 0px;
+    padding-left: 10px;
+    list-style: none;
+}
+nav ul li a{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI','Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 800;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: whitesmoke;
+
+}
+
+.clear{
+    clear: both;}
+p{
+margin: 0 4px 4px;
+padding: 5px;
+text-indent: 20px;
+color: darkslategray;
+text-decoration: transparent;
+text-emphasis: 70px;
+font-weight: 400;
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ .box-info{
+    background-color: rgb(154, 231, 186);
+    margin-top: 50px;
+    transition: all .2s;
+    float: left;
+    margin: 20px 5% 0px 20px;
+    border-radius: 5px;
+}
+.box-info:hover{
+ box-shadow: 1rem 1rem 1rem rgb(160, 158, 158);
+ transform: translateY(-2px);
+} 
+.pic{
+    padding: 13px 2px 2px 13px;
+    width: 100px;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+

@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(8, 8, 34);
+}
+div{
+    position: absolute;
+    top: calc(50% - 250px);
+    left: calc(50% - 150px);
+    background-color:white;
+    width: 300px;
+    height: 500px;
+}
+.about{
+    position: absolute;
+    top: 38%;
+    left: 3%;
+
+    height: 300px;
+    width: 280px;
+    background-color: white;
+}
